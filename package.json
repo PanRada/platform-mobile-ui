@@ -1,5 +1,7 @@
 {
-  "private": true,
+  "name": "platform-mobile-ui",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "dev": "turbo run dev",
     "build": "turbo run build",
@@ -13,6 +15,5 @@
   "engines": {
     "node": ">=18"
   },
-  "name": "with-react-native-web",
   "packageManager": "pnpm@9.7.1"
 }
